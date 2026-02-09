@@ -186,7 +186,6 @@ body::before {
 }
 
 .card__title  {
-    font-size: 1.375rem;
     font-weight: var(--font-weight-semibold);
     color: var(--color-white);
     cursor: pointer;
